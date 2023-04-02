@@ -3,7 +3,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emannocum&count_private=true&show_icons=true&theme=transparent)
 <p align="center"> 
  <picture> 
- <img src ="https://github-readme-stats.vercel.app/api?username=emannocum&count_private=true&show_icons=true&theme=transparent" />
+ <img src ="https://github-readme-stats.vercel.app/api?username=emannocum&count_private=true&show_icons=true&theme=transparent" width ="100%"/>
  </picture>
 <a href=#><img src="contributions.svg"></a>
   Visitor count<br>
