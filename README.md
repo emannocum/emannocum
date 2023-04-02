@@ -18,5 +18,5 @@
 
 <a href=#><img src="contributions.svg"></a>
   <br>Visitor count<br>
-  <img src="https://profile-counter.glitch.me/HiImMadoxx69/count.svg" style ="width: 'auto'"/>
+  <img align="center" src="https://profile-counter.glitch.me/HiImMadoxx69/count.svg" style ="width: 'auto'"/>
 </p>
