@@ -17,6 +17,6 @@
 </picture> 
 
 <a href=#><img src="contributions.svg"></a>
-  Visitor count<br>
+  <br>Visitor count<br>
   <img src="https://profile-counter.glitch.me/HiImMadoxx69/count.svg" style ="width: 'auto'"/>
 </p>
