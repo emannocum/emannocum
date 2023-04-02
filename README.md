@@ -5,7 +5,7 @@
 
  
 
-<img align = "center" src="[https://github-readme-stats.vercel.app/api?username=emannocum&show_icons=true](https://github-readme-stats.vercel.app/api?username=emannocum&count_private=true&show_icons=true&theme=transparent)" />
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" />
 
  
 
