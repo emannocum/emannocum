@@ -16,7 +16,7 @@
 />
 <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=emannocum&count_private=true&show_icons=true&theme=transparent)" />
 </picture>
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emannocum&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 <a href=#><img src="contributions.svg"></a>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HiImMadoxx69/count.svg" style ="width: 'auto'"/>
